@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 #########################################
 # Author:Deepak Luitel			#
-# CMSC417 Project2			#
 # TCP Server				#
 # Ruby Shell  				#
 # Note: Server Runtime 2 sec ~ 5 sec   	#
@@ -48,3 +47,4 @@ while line = clientFile.gets
     	end
 end
 serverFile.close
+clientFile.close
