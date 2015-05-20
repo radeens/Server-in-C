@@ -1,8 +1,7 @@
 /****************************************************************************** 
-* Author : XXXX
-* Project: TCP Server
-* CMSC417 Computer Networks
-* University of Maryland
+* Author : Deepak Luitel
+* TCP Echo Server
+* Computer Networks
 ******************************************************************************/
 
 #include <stdio.h>
