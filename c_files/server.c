@@ -1,12 +1,8 @@
 /****************************************************************************** 
-* Author : Deepak Luitel
+* Author : XXXX
 * Project: TCP Server
 * CMSC417 Computer Networks
 * University of Maryland
-* Citations:
-*	1. GNU.org and Man7.org
-*	2. TCP-IP Sockets in C (page 13-14)
-*		by Michael J. Donahoo and Kenneth L. Calvert	
 ******************************************************************************/
 
 #include <stdio.h>
