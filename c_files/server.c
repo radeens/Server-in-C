@@ -128,5 +128,5 @@ int main(int argc, char *argv[]){
 
 		serveClient(clientfd, (struct sockaddr_in *) &clientAddr);
 	}
-
+//return 0; no exit => server runs forever
 }
